@@ -1,4 +1,4 @@
-# 
+# 智能 geckoterminal sniper bot 脚本 Mac OS版 | 安全 geckoterminal sniper bot 脚本 PC Windows版。集成 回滚处理 和 滑点控制，跨平台性能最大化。
 
 
 
